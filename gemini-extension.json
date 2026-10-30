@@ -1,0 +1,16 @@
+{
+  "name": "agentry",
+  "version": "0.1.0",
+  "description": "Find, verify, install and run QuickAgents (signed, scanned agent packages with a declared capability contract) and build your own, from your agent host.",
+  "mcpServers": {
+    "agentry": {
+      "command": "node",
+      "args": [
+        "${extensionPath}${/}server${/}agentry-mcp.mjs"
+      ],
+      "cwd": "${extensionPath}",
+      "timeout": 3600000
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}
