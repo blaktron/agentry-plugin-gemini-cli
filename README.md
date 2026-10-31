@@ -13,10 +13,10 @@ Then run `/agentry:setup`.
 ## Requirements
 
 - The Agentry CLI 0.6.63 or newer on `PATH`. Install it from https://secureagentry.net/download.
-- Node 20 or newer on `PATH`.
+- Node 24 or newer on `PATH`.
 - Docker, for runs on this computer.
 
 The extension adds the `agentry` skill, the commands
 `/agentry:find`, `/agentry:new`, `/agentry:run`, `/agentry:setup`, `/agentry:sign-in` and the Agentry MCP server
-0.6.999, bundled in `server/`. Signing in stays in your terminal
+0.6.1002, bundled in `server/`. Signing in stays in your terminal
 (`agentry login`). Documentation: https://docs.secureagentry.net/agentry/mcp/. Privacy: https://secureagentry.net/privacy.
