@@ -18,5 +18,5 @@ Then run `/agentry:setup`.
 
 The extension adds the `agentry` skill, the commands
 `/agentry:find`, `/agentry:new`, `/agentry:run`, `/agentry:setup`, `/agentry:sign-in` and the Agentry MCP server
-0.6.1002, bundled in `server/`. Signing in stays in your terminal
+0.7.0, bundled in `server/`. Signing in stays in your terminal
 (`agentry login`). Documentation: https://docs.secureagentry.net/agentry/mcp/. Privacy: https://secureagentry.net/privacy.
